@@ -1,0 +1,5 @@
+﻿  源.cpp
+F:\ViualStudio-code\Calculator\Calculator2\源.cpp(27,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\ViualStudio-code\Calculator\Calculator2\源.cpp(30,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\ViualStudio-code\Calculator\Calculator2\源.cpp(60,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+LINK : fatal error LNK1168: 无法打开 F:\ViualStudio-code\Calculator\Calculator2\x64\Debug\Calculator2.exe 进行写入
